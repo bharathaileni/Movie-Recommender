@@ -15,6 +15,12 @@ __pycache__/
 *.h5
 *.model
 
+# Vector Database
+chroma_db/
+
+# Environment Variables
+.env
+
 # Data Files
 # Keep the folder structure, but ignore the actual CSVs if they are large
 data/*.csv
